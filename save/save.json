@@ -1,0 +1,36 @@
+{
+    "clientes": [
+        {
+            "cep": "145.951-98",
+            "cpf": "21.36-9",
+            "dataNascimento": "10/86/5",
+            "email": "gwqj@dmlw.dwq.gr.g",
+            "estadoCivil": "S",
+            "estadoNascimento": "S",
+            "genero": "S",
+            "naturalidade": "S",
+            "nome": "G",
+            "numeroCasa": 265,
+            "rg": "15.51-9",
+            "senha": "djw",
+            "telefoneCelular": "(25)685-985",
+            "telefoneResidencial": "(15)4598-952"
+        },
+        {
+            "cep": "21.63",
+            "cpf": "2",
+            "dataNascimento": "25/8",
+            "email": "DWA@DWQ.DW.F.W",
+            "estadoCivil": "W",
+            "estadoNascimento": "SD",
+            "genero": "D",
+            "naturalidade": "S",
+            "nome": "F",
+            "numeroCasa": 15,
+            "rg": "5.2",
+            "senha": "DAW",
+            "telefoneCelular": "(2354)458-985",
+            "telefoneResidencial": "(264861)2-9"
+        }
+    ]
+}
